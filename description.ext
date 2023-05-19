@@ -2,7 +2,7 @@ class Header
 {
 	gameType = Coop; // Game type
 	minPlayer = 1;
-	maxPlayer = 8;
+	maxPlayer = 10;
 };
 
 disableChannels[] = {
