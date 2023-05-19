@@ -6,3 +6,6 @@
 
 // Deletes empty choppers which were left on the resupply points
 [] spawn compileFinal preprocessFileLineNumbers "scripts\clean_rsp.sqf";
+
+// set tickets.
+200 call BIS_fnc_paramRespawnTickets;

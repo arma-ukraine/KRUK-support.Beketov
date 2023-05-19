@@ -8,6 +8,4 @@
 };
 
 // Settings.
-200 call BIS_fnc_paramRespawnTickets;
-// 8000 call BIS_fnc_paramViewDistance;
 // 75 call BIS_fnc_paramWeather; // can be 0 (sunny), 25, 50, 75 or 100 (storm))
