@@ -8997,7 +8997,7 @@ class Mission
 								class data
 								{
 									singleType="SCALAR";
-									value=10;
+									value=6;
 								};
 							};
 						};
@@ -9168,7 +9168,7 @@ class Mission
 								class data
 								{
 									singleType="SCALAR";
-									value=10;
+									value=6;
 								};
 							};
 						};
@@ -9248,7 +9248,7 @@ class Mission
 								class data
 								{
 									singleType="SCALAR";
-									value=10;
+									value=6;
 								};
 							};
 						};
@@ -9328,7 +9328,7 @@ class Mission
 								class data
 								{
 									singleType="SCALAR";
-									value=10;
+									value=6;
 								};
 							};
 						};
@@ -9408,7 +9408,7 @@ class Mission
 								class data
 								{
 									singleType="SCALAR";
-									value=10;
+									value=6;
 								};
 							};
 						};
