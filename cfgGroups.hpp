@@ -34,36 +34,36 @@ class CfgGroups
 			class Infantry
 			{
 				name = $STR_A3_CfgGroups_West_BLU_F_Infantry0;
-				class BLUFOR_Infantry_04
-				{
-					name = $str_a3_cfggroups_west_blu_f_infantry_bus_reconteam0;
-					side = 1;
-					faction = BLU_F;
-					class Unit0
-					{
-						side = 1;
-						vehicle = BLUFOR_SPECOPS_TL;
-						rank = "SERGEANT";
-					};
-					class Unit1
-					{
-						side = 1;
-						vehicle = BLUFOR_SPECOPS_RIFLEMAN;
-						rank = "CORPORAL";
-					};
-					class Unit2
-					{
-						side = 1;
-						vehicle = BLUFOR_SPECOPS_SNIPER_ASSISTANT;
-						rank = "PRIVATE";
-					};
-					class Unit3
-					{
-						side = 1;
-						vehicle = BLUFOR_SPECOPS_SNIPER;
-						rank = "PRIVATE";
-					};
-				};
+				// class BLUFOR_Infantry_04
+				// {
+				// 	name = $str_a3_cfggroups_west_blu_f_infantry_bus_reconteam0;
+				// 	side = 1;
+				// 	faction = BLU_F;
+				// 	class Unit0
+				// 	{
+				// 		side = 1;
+				// 		vehicle = BLUFOR_SPECOPS_TL;
+				// 		rank = "SERGEANT";
+				// 	};
+				// 	class Unit1
+				// 	{
+				// 		side = 1;
+				// 		vehicle = BLUFOR_SPECOPS_RIFLEMAN;
+				// 		rank = "CORPORAL";
+				// 	};
+				// 	class Unit2
+				// 	{
+				// 		side = 1;
+				// 		vehicle = BLUFOR_SPECOPS_SNIPER_ASSISTANT;
+				// 		rank = "PRIVATE";
+				// 	};
+				// 	class Unit3
+				// 	{
+				// 		side = 1;
+				// 		vehicle = BLUFOR_SPECOPS_SNIPER;
+				// 		rank = "PRIVATE";
+				// 	};
+				// };
 				class BLUFOR_Infantry_08
 				{
 					name = $str_a3_cfggroups_west_blu_f_infantry_bus_infsquad0;
@@ -250,36 +250,36 @@ class CfgGroups
 						rank = "PRIVATE";
 					};
 				};
-				class BLUFOR_Infantry_AA
-				{
-					name = $str_a3_cfggroups_west_blu_f_infantry_bus_infteam_aa0;
-					side = 1;
-					faction = BLU_F;
-					class Unit0
-					{
-						side = 1;
-						vehicle = BLUFOR_TL;
-						rank = "SERGEANT";
-					};
-					class Unit1
-					{
-						side = 1;
-						vehicle = BLUFOR_AA;
-						rank = "SERGEANT";
-					};
-					class Unit2
-					{
-						side = 1;
-						vehicle = BLUFOR_AA;
-						rank = "PRIVATE";
-					};
-					class Unit3
-					{
-						side = 1;
-						vehicle = BLUFOR_RIFLEMAN;
-						rank = "PRIVATE";
-					};
-				};
+				// class BLUFOR_Infantry_AA
+				// {
+				// 	name = $str_a3_cfggroups_west_blu_f_infantry_bus_infteam_aa0;
+				// 	side = 1;
+				// 	faction = BLU_F;
+				// 	class Unit0
+				// 	{
+				// 		side = 1;
+				// 		vehicle = BLUFOR_TL;
+				// 		rank = "SERGEANT";
+				// 	};
+				// 	class Unit1
+				// 	{
+				// 		side = 1;
+				// 		vehicle = BLUFOR_AA;
+				// 		rank = "SERGEANT";
+				// 	};
+				// 	class Unit2
+				// 	{
+				// 		side = 1;
+				// 		vehicle = BLUFOR_AA;
+				// 		rank = "PRIVATE";
+				// 	};
+				// 	class Unit3
+				// 	{
+				// 		side = 1;
+				// 		vehicle = BLUFOR_RIFLEMAN;
+				// 		rank = "PRIVATE";
+				// 	};
+				// };
 			};
 			class Motorized
 			{
