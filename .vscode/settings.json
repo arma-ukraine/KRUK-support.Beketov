@@ -1,7 +1,0 @@
-{
-  "python.formatting.provider": "none",
-  "python.envFile": "${workspaceFolder}/.env",
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter"
-  }
-}
