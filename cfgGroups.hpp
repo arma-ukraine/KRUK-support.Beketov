@@ -764,6 +764,36 @@ class CfgGroups
 			class Motorized
 			{
 				name = $STR_A3_cfggroups_East_OPF_F_Motorized_MTP0;
+				class OPFOR_Motorized_AA
+				{
+					name = $str_a3_cfggroups_east_opf_f_motorized_mtp_oia_motinf_at0;
+					side = 0;
+					faction = OPF_F;
+					class Unit0
+					{
+						side = 0;
+						vehicle = rhs_tigr_vdv;
+						rank = "SERGEANT";
+					};
+					class Unit1
+					{
+						side = 0;
+						vehicle = rhs_vdv_aa;
+						rank = "CORPORAL";
+					};
+					class Unit2
+					{
+						side = 0;
+						vehicle = rhs_vdv_aa;
+						rank = "PRIVATE";
+					};
+					class Unit3
+					{
+						side = 0;
+						vehicle = rhs_vdv_machinegunner;
+						rank = "PRIVATE";
+					};
+				};
 				class OPFOR_Motorized_AT
 				{
 					name = $str_a3_cfggroups_east_opf_f_motorized_mtp_oia_motinf_at0;
