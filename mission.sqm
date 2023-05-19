@@ -16,18 +16,18 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=14;
+		nextID=18;
 	};
 	class Camera
 	{
-		pos[]={2161.4097,45.997063,7060.6855};
-		dir[]={0.55059552,-0.46435949,0.6936993};
-		up[]={0.28868666,0.88564634,0.36371845};
-		aside[]={0.78326815,-1.2211967e-007,-0.62168735};
+		pos[]={2196.4087,57.907528,7031.1235};
+		dir[]={0.91219449,-0.38702834,-0.13461947};
+		up[]={0.38288924,0.92206442,-0.056505658};
+		aside[]={-0.14599665,-1.7785351e-007,-0.98929113};
 	};
 };
 binarizationWanted=0;
-sourceName="KRUK-support";
+sourceName="kruk-support";
 addons[]=
 {
 	"A3_Missions_F_Heli",
@@ -1824,7 +1824,7 @@ class Mission
 		{
 			dataType="Trigger";
 			position[]={11345.526,40.547318,7588.5205};
-			angle=1.9770799;
+			angle=1.9770796;
 			class Attributes
 			{
 				sizeA=337.41504;
@@ -7316,7 +7316,7 @@ class Mission
 					class PositionInfo
 					{
 						position[]={2172.011,34.046444,7060.73};
-						angles[]={0,4.6890507,0.022514425};
+						angles[]={0,4.689054,0.022514746};
 					};
 					id=86;
 					type="ModuleMPTypeGroundSupportBase_F";
@@ -7331,7 +7331,7 @@ class Mission
 								class data
 								{
 									singleType="SCALAR";
-									value=200;
+									value=20000;
 								};
 							};
 						};
@@ -9473,7 +9473,7 @@ class Mission
 					class PositionInfo
 					{
 						position[]={14289.367,24.347767,10030.066};
-						angles[]={6.2747779,1.4112611,0.0016558425};
+						angles[]={6.2747726,1.4112558,0.0016580628};
 					};
 					id=87;
 					type="ModuleMPTypeGroundSupportBase_F";
@@ -9488,7 +9488,7 @@ class Mission
 								class data
 								{
 									singleType="SCALAR";
-									value=200;
+									value=20000;
 								};
 							};
 						};
