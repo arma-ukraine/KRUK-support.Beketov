@@ -11,4 +11,4 @@
 [] spawn compileFinal preprocessFileLineNumbers "scripts\name_groups.sqf";
 
 // set tickets.
-200 call BIS_fnc_paramRespawnTickets;
+500 call BIS_fnc_paramRespawnTickets;
